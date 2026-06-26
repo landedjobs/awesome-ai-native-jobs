@@ -78,7 +78,7 @@ Connects LLMs to trusted data so answers are accurate and grounded — retrieval
 The new "PM who ships" — owns product *and* builds the AI features. Prompts, evals, and prototyping matter as much as roadmaps.
 - **Skills:** product sense, prompting, evals, rapid prototyping, React/Next.js, APIs.
 - **Comp:** roughly **$150K–$300K** US depending on the AI-eng/PM blend.
-- **Hiring:** product-led startups (Linear, Vercel, Cursor). → [job list](https://github.com/landedjobs/ai-product-engineer-new-grad) · [roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap)
+- **Hiring:** product-led startups (Linear, Vercel, Cursor). → [job list](https://github.com/landedjobs/ai-product-engineer-jobs) · [roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap)
 
 ---
 
@@ -88,7 +88,7 @@ Auto-updated, open job lists per role:
 
 - 🤖 [2026 AI Engineer Jobs](https://github.com/landedjobs/2026-ai-engineer-jobs)
 - 🚀 [GTM Engineer Roles](https://github.com/landedjobs/gtm-engineer-roles)
-- 🧩 [AI Product Engineer — New Grad](https://github.com/landedjobs/ai-product-engineer-new-grad)
+- 🧩 [AI Product Engineer Jobs](https://github.com/landedjobs/ai-product-engineer-jobs)
 - 🤝 [Forward-Deployed Engineer Jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs)
 
 > **See every AI-native role + referral intros + application tracking on [Landed →](https://landed.b100x.ai)**
