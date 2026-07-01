@@ -9,9 +9,9 @@
 [![Stars](https://img.shields.io/github/stars/landedjobs/awesome-ai-native-jobs?style=social)](https://github.com/landedjobs/awesome-ai-native-jobs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
 [![Updated](https://img.shields.io/badge/updated-weekly-00A86B)](https://github.com/landedjobs)
-[![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://landed.b100x.ai)
+[![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://landed.jobs)
 
-*Maintained by [Landed](https://landed.b100x.ai) — scout AI-native roles, get **referred**, prep with mock interviews, and land the job.*
+*Maintained by [Landed](https://landed.jobs) — scout AI-native roles, get **referred**, prep with mock interviews, and land the job.*
 
 </div>
 
@@ -54,7 +54,7 @@ flowchart LR
 Builds products on top of LLMs — RAG, agents, evals, inference. Most roles want shipping ability, **not** an ML PhD.
 - **Skills:** Python, LLM APIs, RAG, agents/tool-use, evals, vector DBs, some TypeScript.
 - **Comp:** US base **$145K–$310K** (senior SF/NY $400K+ TC). India **₹12–18L** entry → **₹55L–₹1.1Cr** senior at top product cos.
-- **Hiring:** frontier labs, applied-AI startups, enterprise AI teams. → [job list](https://github.com/landedjobs/2026-ai-engineer-jobs)
+- **Hiring:** frontier labs, applied-AI startups, enterprise AI teams. → [job list](https://github.com/landedjobs/ai-engineer-jobs)
 
 ### 🤝 Forward-Deployed Engineer (FDE)
 Customer-embedded builder — part engineer, part consultant, shipping custom solutions on the company's platform.
@@ -66,7 +66,7 @@ Customer-embedded builder — part engineer, part consultant, shipping custom so
 Automates go-to-market with code + AI — outbound, enrichment, lead scoring, revenue workflows. The technical evolution of the marketer/SDR.
 - **Skills:** Clay + enrichment, APIs/webhooks, SQL, LLM-personalized outbound, CRM data.
 - **Comp:** base **$180K–$240K**, OTE **$230K–$310K** (25–30% variable); broader range **$132K–$241K**.
-- **Hiring:** Clay, Vapi, fast-growing B2B SaaS. → [job list](https://github.com/landedjobs/gtm-engineer-roles)
+- **Hiring:** Clay, Vapi, fast-growing B2B SaaS. → [job list](https://github.com/landedjobs/gtm-engineer-jobs)
 
 ### 🔎 RAG Engineer
 Connects LLMs to trusted data so answers are accurate and grounded — retrieval pipelines, embeddings, re-ranking, evals. ~10–20% premium over general AI engineering.
@@ -86,12 +86,12 @@ The new "PM who ships" — owns product *and* builds the AI features. Prompts, e
 
 Auto-updated, open job lists per role:
 
-- 🤖 [2026 AI Engineer Jobs](https://github.com/landedjobs/2026-ai-engineer-jobs)
-- 🚀 [GTM Engineer Roles](https://github.com/landedjobs/gtm-engineer-roles)
+- 🤖 [2026 AI Engineer Jobs](https://github.com/landedjobs/ai-engineer-jobs)
+- 🚀 [GTM Engineer Roles](https://github.com/landedjobs/gtm-engineer-jobs)
 - 🧩 [AI Product Engineer Jobs](https://github.com/landedjobs/ai-product-engineer-jobs)
 - 🤝 [Forward-Deployed Engineer Jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs)
 
-> **See every AI-native role + referral intros + application tracking on [Landed →](https://landed.b100x.ai)**
+> **See every AI-native role + referral intros + application tracking on [Landed →](https://landed.jobs)**
 
 ## Interview prep
 
@@ -145,8 +145,8 @@ PRs and issues welcome — add roles, questions, projects, or resources. See [CO
 
 ### Don't just apply. Get **referred**, get **prepped**, get **Landed**.
 
-[![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.b100x.ai)
+[![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.jobs)
 
-<sub>Maintained by [Landed](https://landed.b100x.ai) · Comp figures aggregated from public 2026 salary reports; ranges are approximate.</sub>
+<sub>Maintained by [Landed](https://landed.jobs) · Comp figures aggregated from public 2026 salary reports; ranges are approximate.</sub>
 
 </div>
