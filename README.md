@@ -11,7 +11,7 @@
 [![Updated](https://img.shields.io/badge/updated-weekly-00A86B)](https://github.com/landedjobs)
 [![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://landed.jobs)
 
-*Maintained by [Landed](https://landed.jobs) — scout AI-native roles, get **referred**, prep with mock interviews, and land the job.*
+*Maintained by [Landed](https://landed.jobs) — daily AI-native job matches, agent help with every application, and mock-interview prep.*
 
 </div>
 
@@ -91,7 +91,7 @@ Auto-updated, open job lists per role:
 - 🧩 [AI Product Engineer Jobs](https://github.com/landedjobs/ai-product-engineer-jobs)
 - 🤝 [Forward-Deployed Engineer Jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs)
 
-> **See every AI-native role + referral intros + application tracking on [Landed →](https://landed.jobs)**
+> **Get fresh AI-native roles matched to you daily on [Landed →](https://landed.jobs)**
 
 ## Interview prep
 
@@ -143,7 +143,7 @@ PRs and issues welcome — add roles, questions, projects, or resources. See [CO
 
 <div align="center">
 
-### Don't just apply. Get **referred**, get **prepped**, get **Landed**.
+### Stop spraying. Get **matched**, get **prepped**, get **Landed**.
 
 [![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.jobs)
 
