@@ -8,7 +8,7 @@
 
 [![Stars](https://img.shields.io/github/stars/landedjobs/awesome-ai-native-jobs?style=social)](https://github.com/landedjobs/awesome-ai-native-jobs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C2BD9.svg)](LICENSE)
-[![Updated](https://img.shields.io/badge/updated-weekly-00A86B)](https://github.com/landedjobs)
+[![Family review](https://img.shields.io/badge/family_review-2026.07.24-00A86B)](https://github.com/landedjobs)
 [![Visit Landed](https://img.shields.io/badge/Visit-Landed-6C2BD9?logo=rocket&logoColor=white)](https://landed.jobs)
 
 **A curated map of the new generation of AI-native jobs** — the roles, real salaries, skills, interview prep, and projects to land them.
@@ -19,7 +19,7 @@
 
 ---
 
-The job market is being rewritten. "Product Manager" is becoming **AI Product Engineer**. "Marketer" is becoming **GTM Engineer**. Whole new titles — **Forward-Deployed Engineer, RAG Engineer, Context Engineer** — barely existed two years ago, and roles needing AI skills now carry a **~56% wage premium**. This repo maps that shift and gives you everything to break in.
+The job market is being rewritten. "Product Manager" is becoming **AI Product Engineer**. "Marketer" is becoming **GTM Engineer**. Titles such as **Forward-Deployed Engineer, RAG Engineer, and Context Engineer** now have distinct hiring tracks, tools, and evidence expectations. This repo maps that shift and gives you practical ways to break in.
 
 > ⭐ **Star this repo** — it's the umbrella for a whole set of curated job lists, interview guides, and roadmaps, refreshed regularly.
 
@@ -47,36 +47,36 @@ flowchart LR
 
 ## The new AI-native roles
 
-> Comp = approximate 2026 ranges (base, US unless noted; India where relevant), aggregated from public salary reports. Total comp runs higher with equity, especially at frontier labs.
+> Compensation changes quickly by level, geography, stage, and cash/equity mix. Use the linked live job lists and current employer disclosures for role-specific ranges; this umbrella does not claim one market-wide benchmark.
 
 ### 🤖 AI Engineer
 Builds products on top of LLMs — RAG, agents, evals, inference. Most roles want shipping ability, **not** an ML PhD.
 - **Skills:** Python, LLM APIs, RAG, agents/tool-use, evals, vector DBs, some TypeScript.
-- **Comp:** US base **$145K–$310K** (senior SF/NY $400K+ TC). India **₹12–18L** entry → **₹55L–₹1.1Cr** senior at top product cos.
+- **Comp:** varies widely by level, geography, model depth, and whether the role owns production systems; verify against current disclosed postings.
 - **Hiring:** frontier labs, applied-AI startups, enterprise AI teams. → [job list](https://github.com/landedjobs/ai-engineer-jobs)
 
 ### 🤝 Forward-Deployed Engineer (FDE)
 Customer-embedded builder — part engineer, part consultant, shipping custom solutions on the company's platform.
 - **Skills:** Python, integrations, solutions design, customer-facing communication, data.
-- **Comp:** base **$175K–$260K**, OTE **$230K–$360K**; median TC mid-level ~**$385K**, staff ~**$610K**, principal **$1.2M+** at frontier labs.
+- **Comp:** compare like-for-like roles carefully because field engineering, solutions work, travel, sales incentives, and frontier-lab leveling create very different packages.
 - **Hiring:** Palantir, OpenAI, Anthropic, applied-AI startups. → [job list](https://github.com/landedjobs/forward-deployed-engineer-jobs)
 
 ### 🚀 GTM Engineer
 Automates go-to-market with code + AI — outbound, enrichment, lead scoring, revenue workflows. The technical evolution of the marketer/SDR.
 - **Skills:** Clay + enrichment, APIs/webhooks, SQL, LLM-personalized outbound, CRM data.
-- **Comp:** base **$180K–$240K**, OTE **$230K–$310K** (25–30% variable); broader range **$132K–$241K**.
+- **Comp:** establish whether the package is salary-only or includes variable compensation, then compare the same geography, stage, and ownership level.
 - **Hiring:** Clay, Vapi, fast-growing B2B SaaS. → [job list](https://github.com/landedjobs/gtm-engineer-jobs)
 
 ### 🔎 RAG Engineer
-Connects LLMs to trusted data so answers are accurate and grounded — retrieval pipelines, embeddings, re-ranking, evals. ~10–20% premium over general AI engineering.
+Connects LLMs to trusted data so answers are accurate and grounded — retrieval pipelines, embeddings, re-ranking, and evals.
 - **Skills:** vector DBs (Pinecone/Weaviate/pgvector/Chroma), chunking, hybrid search + BM25, re-ranking, retrieval evals (recall@k, MRR, nDCG), caching/cost, MLOps.
-- **Comp:** US entry **$120K–$160K**, mid **$160K–$220K**, senior **$200K–$280K+**. India mid **₹4–20L**, senior **₹20–58L+**.
+- **Comp:** benchmark against current AI/ML engineering roles with comparable retrieval ownership and production scope.
 - **Hiring:** every company with an AI feature that must be *right*. → [interview prep](https://github.com/landedjobs/rag-engineer-interview-questions)
 
 ### 🧩 AI Product Engineer
 The new "PM who ships" — owns product *and* builds the AI features. Prompts, evals, and prototyping matter as much as roadmaps.
 - **Skills:** product sense, prompting, evals, rapid prototyping, React/Next.js, APIs.
-- **Comp:** roughly **$150K–$300K** US depending on the AI-eng/PM blend.
+- **Comp:** benchmark the actual engineering/product blend, level, and geography; the title alone is not a reliable compensation band.
 - **Hiring:** product-led startups (Linear, Vercel, Cursor). → [job list](https://github.com/landedjobs/ai-product-engineer-jobs) · [roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap)
 
 ---
@@ -118,6 +118,7 @@ The new "PM who ships" — owns product *and* builds the AI features. Prompts, e
 
 ### 🏗️ Build & learn
 
+- 🧭 [AI Job Hunt OS](https://github.com/landedjobs/ai-job-hunt-os) — six source-conscious agent skills for the full job-search loop
 - 🧪 [Projects to Land an AI Job](https://github.com/landedjobs/projects-to-land-an-ai-job) — deep, buildable briefs with evals and a deploy path
 - 📦 [AI Engineer Portfolio Projects](https://github.com/landedjobs/ai-engineer-portfolio-projects) — 80+ buildable projects by theme
 - 🗺️ [AI Product Engineer Roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap) — skills, tools, milestones for the role
@@ -131,14 +132,13 @@ The new "PM who ships" — owns product *and* builds the AI features. Prompts, e
 
 ---
 
-## The data
+## How to read the map
 
-- **AI Engineer** was a **#1 fastest-growing** US job title; postings up **~143% YoY**.
-- AI/ML job postings rose **~163%** from 2024 → 2025.
-- Roles requiring AI skills carry a **~56% wage premium** (up from ~25% a year earlier).
-- Forward-Deployed comp can swing **4–5×** across frontier labs vs enterprise AI teams.
+This is a navigation layer, not a labor-market census. Each job list covers a selected role family and
+changes as the underlying postings change. Use it to discover titles, skills, and openings; use live
+employer disclosures and clearly defined external datasets for market-wide claims.
 
-> Skills that show up most across these roles: **Python · LLM APIs · RAG · agents/tool-use · evals · vector DBs · prompting · rapid prototyping**. Bonus: TypeScript/Next.js, cloud, observability.
+> Common skill clusters across these role families include **Python · LLM APIs · RAG · agents/tool-use · evals · vector DBs · prompting · rapid prototyping**. The relevant cluster depends on the actual role.
 
 ---
 
@@ -167,6 +167,6 @@ PRs and issues welcome — add roles, questions, projects, or resources. See [CO
 
 [![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.jobs)
 
-<sub>Maintained by [Landed](https://landed.jobs) · Comp figures aggregated from public 2026 salary reports; ranges are approximate.</sub>
+<sub>Maintained by [Landed](https://landed.jobs) · Market-wide claims require a dated, defined external source.</sub>
 
 </div>
