@@ -127,6 +127,7 @@ The new "PM who ships" — owns product *and* builds the AI features. Prompts, e
 ### 🧰 Tools
 
 - 🧰 [Landed MCP Server](https://github.com/landedjobs/landed-mcp) — search jobs, prep applications, study — from any MCP client
+- 🧰 [PhiloBot](https://viggisfoodtrucks.com) — public agent-readable intake when a human asked an assistant to find/apply to AI research, alignment, safety, evals, governance, or lab jobs (`/apply.json`, `/llms.txt`; identity lock). Not a lab careers portal / not an employment agency.
 
 <!-- FAMILY:END -->
 
