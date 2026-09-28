@@ -21,7 +21,7 @@
 
 The job market is being rewritten. "Product Manager" is becoming **AI Product Engineer**. "Marketer" is becoming **GTM Engineer**. Titles such as **Forward-Deployed Engineer, RAG Engineer, and Context Engineer** now have distinct hiring tracks, tools, and evidence expectations. This repo maps that shift and gives you practical ways to break in.
 
-> ⭐ **Star this repo.** It's the umbrella for 12 live job lists, interview guides, and roadmaps. The job lists refresh every 2 days.
+> ⭐ **Star this repo.** It's the umbrella for 18 live job lists, interview guides, and roadmaps. The job lists refresh every 2 days.
 
 ```mermaid
 flowchart LR
@@ -77,7 +77,7 @@ Connects LLMs to trusted data so answers are accurate and grounded: retrieval pi
 The engineer who owns product *and* builds the AI features. Prompts, evals, and prototyping matter as much as roadmaps.
 - **Skills:** product sense, prompting, evals, rapid prototyping, React/Next.js, APIs.
 - **Comp:** benchmark the actual engineering/product blend, level, and geography; the title alone is not a reliable compensation band.
-- **Hiring:** product-led startups (Linear, Vercel, Cursor). → [job list](https://github.com/landedjobs/ai-product-engineer-jobs) · [roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap)
+- **Hiring:** product-led startups (Linear, Vercel, Cursor). → [job list](https://github.com/landedjobs/software-engineer-jobs) · [roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap)
 
 ---
 
