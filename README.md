@@ -91,22 +91,28 @@ The engineer who owns product *and* builds the AI features. Prompts, evals, and 
 
 ### 🔴 Live job lists, refreshed every 2 days (last refresh 2026-09-28)
 
-Global roles, with US-based and worldwide-remote roles listed first. Each list shows up to 300 of the newest open postings.
+Global roles, with US-based and worldwide-remote roles listed first and top-rated companies ahead of the rest. Each list shows up to 300 open roles.
 
 | List | What it covers | Roles listed |
 |---|---|--:|
 | 🤖 [AI Engineer](https://github.com/landedjobs/ai-engineer-jobs) | build products on top of LLMs: RAG, agents, evals, inference | 300 |
-| 🧠 [LLM Engineer](https://github.com/landedjobs/llm-engineer-jobs) | fine-tuning, inference, and LLM product engineering | 288 |
-| 🕹️ [AI Agent Engineer](https://github.com/landedjobs/ai-agent-engineer-jobs) | planning, tool use, orchestration, guardrails | 300 |
-| 🔬 [Applied Scientist / Research Engineer](https://github.com/landedjobs/applied-scientist-and-research-engineer-jobs) | applied research, training, evaluation | 300 |
+| 🧠 [LLM & AI Agent Engineer](https://github.com/landedjobs/llm-engineer-jobs) | LLM products, agents, orchestration, evals | 300 |
+| ⚙️ [Machine Learning Engineer](https://github.com/landedjobs/machine-learning-engineer-jobs) | train, ship, and operate ML models in production | 300 |
+| 🔬 [AI Research Scientist / Research Engineer](https://github.com/landedjobs/applied-scientist-and-research-engineer-jobs) | AI research, training, and evaluation | 300 |
 | 🤝 [Forward-Deployed Engineer](https://github.com/landedjobs/forward-deployed-engineer-jobs) | customer-embedded builder, part engineer, part consultant | 300 |
 | 🛠️ [Solutions Engineer / Architect](https://github.com/landedjobs/solutions-engineer-and-architect-jobs) | technical pre-sales, integrations, deployment | 300 |
 | 🛢️ [Data Engineer](https://github.com/landedjobs/data-engineer-jobs) | pipelines and platforms that power AI | 300 |
 | 📊 [Data Scientist](https://github.com/landedjobs/data-scientist-jobs) | analytics, experimentation, machine learning | 300 |
-| 🦾 [Robotics & Embedded](https://github.com/landedjobs/ai-robotics-and-embedded-jobs) | perception, control, embedded ML | 300 |
-| 🧩 [Product Engineer](https://github.com/landedjobs/ai-product-engineer-jobs) | engineers who build and ship product features | 300 |
-| 🚀 [GTM Engineer](https://github.com/landedjobs/gtm-engineer-jobs) | automate go-to-market with code and AI | 110 |
-| 💼 [Freelance & Advisory](https://github.com/landedjobs/ai-freelance-and-advisory-jobs) | fractional, contract, and advisory roles | 300 |
+| 🦾 [Robotics & Embedded Engineer](https://github.com/landedjobs/ai-robotics-and-embedded-jobs) | robotics, perception, autonomy, embedded | 300 |
+| 🚀 [GTM Engineer](https://github.com/landedjobs/gtm-engineer-jobs) | automate go-to-market with code and AI | 102 |
+| 💼 [Contract & Freelance Tech](https://github.com/landedjobs/ai-freelance-and-advisory-jobs) | contract, freelance, and fractional tech roles | 300 |
+| 🧩 [Product Manager](https://github.com/landedjobs/product-manager-jobs) | product managers, including AI product roles | 300 |
+| 🎨 [Product Designer](https://github.com/landedjobs/product-designer-jobs) | product, UX, and interaction design | 300 |
+| 💻 [Software Engineer](https://github.com/landedjobs/software-engineer-jobs) | backend, frontend, full stack, platform, product engineering | 300 |
+| 🎓 [Tech Intern](https://github.com/landedjobs/tech-internships) | internships and co-ops in tech roles | 300 |
+| 🌱 [New Grad & Entry-Level](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) | new grad, junior, and fresher tech roles | 300 |
+| 🌐 [Remote Tech](https://github.com/landedjobs/remote-tech-jobs) | remote software, AI, data, product, and design roles | 300 |
+| 🇮🇳 [India Tech](https://github.com/landedjobs/india-tech-jobs) | software, AI, data, product, and design roles in India | 300 |
 
 [Get roles like these matched to you on landed →](https://go.landed.jobs/1f9t00o)
 
