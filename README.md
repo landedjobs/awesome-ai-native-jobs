@@ -83,7 +83,7 @@ The engineer who owns product *and* builds the AI features. Prompts, evals, and 
 
 ## The full family
 
-> Every open-source repo we maintain: live job lists, opportunities, interview prep, roadmaps, and tools. **[Get fresh AI-native roles matched to you daily on Landed →](https://go.landed.jobs/1f9t00o)**
+> Every open-source repo we maintain: live job lists, interview prep, roadmaps, and tools. **[Get fresh AI-native roles matched to you daily on Landed →](https://go.landed.jobs/1f9t00o)**
 
 <!-- FAMILY:START -->
 
@@ -117,12 +117,6 @@ Global roles, with US-based and worldwide-remote roles listed first and top-rate
 [Get roles like these matched to you on landed →](https://go.landed.jobs/1f9t00o)
 
 <!-- JOB-LISTS:END -->
-
-### 🎯 More ways in: opportunities beyond the job boards
-
-- 🔥 [Who's Hiring in AI](https://github.com/landedjobs/whos-hiring-in-ai): real hiring posts from founders on X, sorted by role
-- 💸 [Recently-Funded AI Startups](https://github.com/landedjobs/recently-funded-ai-startups-hiring): fresh-capital startups staffing up now
-- 🎓 [AI Fellowships & Residencies](https://github.com/landedjobs/ai-fellowships-and-residencies): 75 fellowships, residencies & programs with stipends and deadlines
 
 ### 🧠 Interview prep
 
