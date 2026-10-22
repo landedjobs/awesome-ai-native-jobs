@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://landed.jobs"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></a>
+<a href="https://landed.jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></picture></a>
 
 <img src="https://static.b100x.ai/github-repos/images/awesome-ai-native-jobs/banner.svg" alt="Awesome AI-Native Jobs" width="100%">
 
