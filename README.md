@@ -17,6 +17,13 @@
 
 </div>
 
+<!-- landed-apply-cta -->
+<table><tr><td>
+<b>⚡ <a href="https://app.landed.jobs/signup?from=github&amp;cta=github-guide-apply&amp;item=awesome-ai-native-jobs&amp;utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github-awesome-ai-native-jobs&amp;utm_content=guide-apply">Auto-apply to AI jobs that match you →</a></b><br>
+Upload your resume once. <a href="https://www.landed.jobs">landed</a> finds the roles that fit you and applies within hours of them going live, so you actually hear back.
+</td></tr></table>
+
+
 ---
 
 The job market is being rewritten. "Product Manager" is becoming **AI Product Engineer**. "Marketer" is becoming **GTM Engineer**. Titles such as **Forward-Deployed Engineer, RAG Engineer, and Context Engineer** now have distinct hiring tracks, tools, and evidence expectations. This repo maps that shift and gives you practical ways to break in.
