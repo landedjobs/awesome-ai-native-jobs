@@ -111,7 +111,7 @@ Each list shows up to 300 open roles from the last 90 days, the same number as i
 | 🛢️ [Data Engineer](https://github.com/landedjobs/data-engineer-jobs) | pipelines and platforms that power AI | 300 |
 | 📊 [Data Scientist](https://github.com/landedjobs/data-scientist-jobs) | analytics, experimentation, machine learning | 300 |
 | 🦾 [Robotics & Embedded Engineer](https://github.com/landedjobs/ai-robotics-and-embedded-jobs) | robotics, perception, autonomy, embedded | 300 |
-| 🚀 [GTM Engineer](https://github.com/landedjobs/gtm-engineer-jobs) | automate go-to-market with code and AI | 96 |
+| 🚀 [GTM Engineer](https://github.com/landedjobs/gtm-engineer-jobs) | automate go-to-market with code and AI | 97 |
 | 🧩 [Product Manager](https://github.com/landedjobs/product-manager-jobs) | product managers, including AI product roles | 300 |
 | 🎨 [Product Designer](https://github.com/landedjobs/product-designer-jobs) | product, UX, and interaction design | 300 |
 | 💻 [Software Engineer](https://github.com/landedjobs/software-engineer-jobs) | backend, frontend, full stack, platform, product engineering | 300 |
