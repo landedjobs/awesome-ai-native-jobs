@@ -143,6 +143,7 @@ Each list shows up to 300 open roles from the last 90 days, the same number as i
 ### 🧰 Tools
 
 - 🧰 [Landed MCP Server](https://github.com/landedjobs/landed-mcp): search jobs, prep applications, and study from any MCP client
+- 🧰 [Present of AI MCP Server](https://presentofai.com/mcp): search a sourced dataset of AI companies and AI job postings (funding stage, sector, country) from any MCP client
 
 <!-- FAMILY:END -->
 
