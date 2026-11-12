@@ -127,6 +127,11 @@ Each list shows up to 300 open roles from the last 90 days, the same number as i
 
 <!-- JOB-LISTS:END -->
 
+### 💰 Pay and startups
+
+- 💰 [AI Salaries](https://github.com/landedjobs/ai-salaries): posted pay for open AI roles by company and level, next to market pay by country, role and level, refreshed every 2 days
+- 🟧 [YC Startup Jobs](https://github.com/landedjobs/yc-startup-jobs): roles at Y Combinator startups, newest batches first, refreshed every 2 days
+
 ### 🧠 Interview prep
 
 - 📘 [AI Interview Guides](https://github.com/landedjobs/ai-interview-guides): 33 company-by-company guides: process, questions, comp
@@ -134,6 +139,10 @@ Each list shows up to 300 open roles from the last 90 days, the same number as i
 - 🧠 [Awesome AI Engineer Interview](https://github.com/landedjobs/awesome-ai-engineer-interview): questions, worked system designs, company guides
 - 🔎 [RAG Engineer Interview Questions](https://github.com/landedjobs/rag-engineer-interview-questions): RAG and retrieval interview questions
 - 📦 [AI PM Interview Prep](https://github.com/landedjobs/ai-pm-interview-prep): product sense, AI fluency, frameworks, real questions
+- 🏗️ [AI System Design Interview](https://github.com/landedjobs/ai-system-design-interview): 15 worked LLM and GenAI system designs with estimates, diagrams and eval plans
+- 🕵️ [AI Agent Interview Questions](https://github.com/landedjobs/ai-agent-interview-questions): 114 agent questions with answers, 5 system designs and runnable Python
+- 💻 [LeetCode for AI Companies](https://github.com/landedjobs/leetcode-for-ai-companies): the coding problems AI companies ask, mapped to LeetCode and 15 patterns
+- 📄 [AI Engineer Resume Examples](https://github.com/landedjobs/ai-engineer-resume-examples): 8 example resumes, 160 bullets, before/after rewrites and templates
 
 ### 🏗️ Build & learn
 
@@ -146,6 +155,7 @@ Each list shows up to 300 open roles from the last 90 days, the same number as i
 ### 🧰 Tools
 
 - 🧰 [Landed MCP Server](https://github.com/landedjobs/landed-mcp): search jobs, prep applications, and study from any MCP client
+- 🔍 [Awesome AI Job Search Tools](https://github.com/landedjobs/awesome-ai-job-search-tools): 106 tools for auto-apply, resume tailoring, ATS checks and interview practice
 
 <!-- FAMILY:END -->
 
