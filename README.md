@@ -119,7 +119,7 @@ Each list shows up to 300 open roles from the last 90 days, the same number as i
 | 🌱 [New Grad & Entry-Level](https://github.com/landedjobs/new-grad-and-entry-level-tech-jobs) | new grad, junior, and fresher tech roles | 300 |
 | 🌐 [Remote Tech](https://github.com/landedjobs/remote-tech-jobs) | remote software, AI, data, product, and design roles | 300 |
 | 🏛️ [AI Lab](https://github.com/landedjobs/ai-lab-jobs) | roles at OpenAI, Anthropic, xAI, NVIDIA and other AI labs | 124 |
-| 🛂 [Visa Sponsorship](https://github.com/landedjobs/visa-sponsorship-tech-jobs) | tech roles that say they sponsor visas | 192 |
+| 🛂 [Visa Sponsorship](https://github.com/landedjobs/visa-sponsorship-tech-jobs) | tech roles that say they sponsor visas | 193 |
 | ☀️ [Summer 2027 AI Intern](https://github.com/landedjobs/summer-2027-ai-internships) | summer 2027 internships in AI, ML, data, and software | 300 |
 | 🟧 [YC Startup](https://github.com/landedjobs/yc-startup-jobs) | roles at YC startups, newest batches first | 300 |
 | 🇮🇳 [India Tech](https://github.com/landedjobs/india-tech-jobs) | software, AI, data, product, and design roles in India | 300 |
